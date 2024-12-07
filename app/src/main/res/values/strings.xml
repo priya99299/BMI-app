@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="About"> Chess</string>
+    <string name="hint_wt"></string>
+    <string name="hint_ht"></string>
+    <string name="hint_htI"></string>
+</resources>
